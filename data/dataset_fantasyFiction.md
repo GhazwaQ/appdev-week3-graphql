@@ -8,7 +8,7 @@ mutation movies_fntasyFiction {
       title:"Harry Potter and the Philosopher's Stone",
       synopsis:"Harry Potter, an eleven-year-old orphan, discovers that he is a wizard and is invited to study at Hogwarts. Even as he escapes a dreary life and enters a world of magic, he finds trouble awaiting him.",
       duration:159,
-      thumbnail:"https://imgur.com/dGES3X1"}) {
+      thumbnail:"https://i.imgur.com/dGES3X1.mp4"}) {
     value{title}
    }
 }
